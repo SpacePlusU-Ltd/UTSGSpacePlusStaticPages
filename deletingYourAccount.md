@@ -6,7 +6,7 @@ There are two methods of deleting your SpacePlusU UTSG account.  Either using th
 
 #### Account Deletion via the SpacePlusU UTSG App
 In order to delete your account using the SpacePlusU UTSG App, follow these steps:
-1. Ensure your app version is at least the minimum version with account deletion functionality (Android:`UTSG-v3.1.0` , iOS:`<TBD>`)
+1. Ensure your app version is at least the minimum version with account deletion functionality (Android:`UTSG-v3.1.0` , iOS:`1.1.0`)
 2. Ensure you are signed in on the account you wish to delete
 3. Navigate to the "Me" page
 4. Tap the "Delete account" button at the bottom of the page
